@@ -1,5 +1,5 @@
 <br>
-VM1 -> VM2  ping(intnet)
+#VM1 -> VM2  ping(intnet)
 
 <br>
 
@@ -8,7 +8,7 @@ VM1 -> VM2  ping(intnet)
 <br>
 
 <br>
-VM1 -> VM2 ping(Nat-network) 
+#VM1 -> VM2 ping(Nat-network) 
 
 <br>
 
@@ -17,7 +17,7 @@ VM1 -> VM2 ping(Nat-network)
 <br>
 
 <br>
-VM1 -> VM2 http(intnet)(웹브라우저 or curl)
+#VM1 -> VM2 http(intnet)(웹브라우저 or curl)
 
 <br>
 
